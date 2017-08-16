@@ -1,1 +1,6 @@
 C:\Users\BIOTOK_13\YandexDisk\Моя папка\Программирование\Educational-projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\BIOTOK_13\YandexDisk\Моя папка\Программирование\Educational-projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\BIOTOK_13\YandexDisk\Моя папка\Программирование\Educational-projects\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\BIOTOK_13\YandexDisk\Моя папка\Программирование\Educational-projects\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+C:\Users\BIOTOK_13\YandexDisk\Моя папка\Программирование\Educational-projects\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\BIOTOK_13\YandexDisk\Моя папка\Программирование\Educational-projects\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
